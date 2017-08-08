@@ -1,0 +1,157 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.glc_dynamics_center{
+	width: 100%;
+	min-width: 1200px;
+}
+/*新手活动  新手活动*/
+.glc_activity_container{
+	width: 100%;
+	min-width: 1200px;
+	height: auto;
+	margin: 0;
+	background-color: #c5dfff;
+}
+/*新手活动 banner图*/
+.glc_activity_banner{
+	height: auto;
+	width: 100%;
+	min-width: 1200px;
+	margin: 0;
+}
+.glc_activity_bannerImg{
+	display: block;
+	height: 100%;
+	width: 100%;
+	min-width: 1200px;
+
+}
+
+/*中部区域图片*/
+.glc_activity_CenterImgDiv{
+	height: auto;
+	width: 100%;
+	min-width: 1200px;
+	margin-top:-95px;
+	/*z-index: -1;*/
+}
+.glc_activity_CenterImg{
+	position: relative;
+	display: block;
+	height: 100%;
+	width: 100%;
+	min-width: 1200px;	
+	/*z-index: -1;*/
+}
+/*新手活动 活动介绍标题*/
+.glc_activity_CenterImgWord{
+	display: block;
+	line-height: 20;
+	position: relative;
+	top: 120px;	
+	text-align: center;
+	z-index: 10;
+	font-family: "Microsoft YaHei" ! important;
+	font-size: 25px;
+	color: #c51420;
+	font-weight: bolder;
+}
+/*新手活动 活动介绍*/
+.glc_activity_description{
+	display: block;
+	line-height: 20px;
+	position: relative;
+	top: 180px;	
+	text-align: center;	
+	font-family: "Microsoft YaHei" ! important;
+	font-size: 15px;
+	color: #6f6f6f;
+	z-index: 10;
+}
+
+/*新手活动 底部区域*/
+.glc_activity_footer{
+	position: absolute;
+	width: 100%;
+	min-width: 1200px;
+	height: 750px;
+	background-color: #c5dfff;
+	/*background-color: black;*/
+	margin-top: -4px;
+}
+/*新手活动 使用规则图片div*/
+.glc_activity_RuleImgDiv{
+	height: auto;
+	width: 100%;
+	min-width: 1200px;
+}
+.glc_activity_RuleImg{
+	position: relative;
+	display: block;
+	height: 100%;
+	width: 100%;
+	min-width: 1200px;	
+}
+/*新手活动 使用规则详情*/
+.glc_activity_rule{
+	width: 70%;
+	min-width: 840px;
+	margin-left: 30%;
+	float: left;
+	height: auto;
+	/*background-color: red;*/
+	font-family: "Microsoft YaHei" ! important;
+	font-size: 15px;
+	color: #000000;	
+	/*border: medium solid red;*/
+	
+	/*text-align: center;*/
+	/*background-color: red;*/
+}
+/*新手活动  金额表格*/
+.glc_activity_table{
+	width: 50%;
+	min-width: 600px;
+	margin-left: 30%;	
+	float: left;
+	margin-top: 20px;
+	height: auto;
+	/*background-color: pink;*/
+	font-family: "Microsoft YaHei" ! important;
+	font-size: 20px;
+	/*color: #ffffff;	*/
+	color: black;
+
+	border: medium thick ;
+}
+/*表格定义*/
+.glc_activity_tableT{
+	width: 600px;
+	border: 3px #ffffff solid ;
+	text-align: center;
+	background-color:#4b96f3;
+}
+.glc_activity_tableT th{
+	text-align: center;
+}
+/*.glc_activity_RuleImgDiv{
+	height: auto;
+	width: 100%;
+	min-width: 1200px;
+		
+}
+.glc_activity_ruleImgWord{
+	display: block;
+	line-height: 20;
+	position: relative;
+	top: 120px;	
+	text-align: center;
+	z-index: 10;
+	font-family: "Microsoft YaHei" ! important;
+	font-size: 25px;
+	color: #c51420;
+	font-weight: bolder;	
+}*/
